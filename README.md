@@ -4,10 +4,10 @@
 
 ---
 
-1. hello world!
+- hello world!
 
-2. hello world!
+- hello world!
 
-3. hello world!
+- hello world!
 
 ***
